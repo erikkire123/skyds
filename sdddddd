@@ -1,0 +1,15 @@
+
+ while wait() do
+ if getgenv().f== true then
+ game.Workspace.sgrdftweswet.Head.NameBbGui.TextLabel.Font = "Arcade"
+ 
+ game.Workspace.sgrdftweswet.Head.NameBbGui.TextLabel.Text = "Skyds V2 Owner"
+ wait(.4) 
+game.Workspace.sgrdftweswet.Head.NameBbGui.TextLabel.Text = "|Skyds V2 Owner|"
+
+wait(.4)
+game.Workspace.sgrdftweswet.Head.NameBbGui.TextLabel.Text = "||Skyds V2 Owner||"
+wait(.4)
+game.Workspace.sgrdftweswet.Head.NameBbGui.TextLabel.Text = "|||Skyds V2 Owner|||"
+wait(.4)
+end
